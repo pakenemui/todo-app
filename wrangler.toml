@@ -3,4 +3,4 @@ type = "javascript"
 
 [build]
 command = "npm run build"
-node_version = "18.18.0"
+node_version = "21.1.0"
