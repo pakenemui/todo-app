@@ -1,0 +1,6 @@
+name = "todo-app"
+type = "javascript"
+
+[build]
+command = "npm run build"
+node_version = "18.18.0"
